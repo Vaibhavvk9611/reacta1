@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reacta1/static/css/main.f744175c.chunk.css",
+    "main.js": "/reacta1/static/js/main.df48cf24.chunk.js",
+    "main.js.map": "/reacta1/static/js/main.df48cf24.chunk.js.map",
+    "runtime-main.js": "/reacta1/static/js/runtime-main.b6fd3ed8.js",
+    "runtime-main.js.map": "/reacta1/static/js/runtime-main.b6fd3ed8.js.map",
+    "static/js/2.70cd7bce.chunk.js": "/reacta1/static/js/2.70cd7bce.chunk.js",
+    "static/js/2.70cd7bce.chunk.js.map": "/reacta1/static/js/2.70cd7bce.chunk.js.map",
+    "static/js/3.2586ea49.chunk.js": "/reacta1/static/js/3.2586ea49.chunk.js",
+    "static/js/3.2586ea49.chunk.js.map": "/reacta1/static/js/3.2586ea49.chunk.js.map",
+    "index.html": "/reacta1/index.html",
+    "static/css/main.f744175c.chunk.css.map": "/reacta1/static/css/main.f744175c.chunk.css.map",
+    "static/js/2.70cd7bce.chunk.js.LICENSE.txt": "/reacta1/static/js/2.70cd7bce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6fd3ed8.js",
+    "static/js/2.70cd7bce.chunk.js",
+    "static/css/main.f744175c.chunk.css",
+    "static/js/main.df48cf24.chunk.js"
+  ]
+}
